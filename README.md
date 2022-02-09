@@ -1,9 +1,9 @@
-<img src="https://imgur.com/xyZM5xb.gif" alt="Git" style="vertical-align:top; margin:4px; text-align: center;">
+<img src="https://imgur.com/xyZM5xb.gif" alt="Git" style="vertical-align:top; width: 80%">
 
 # Olá, meu nome é Mizael <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="45" height="40">
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="40" height="30"> Sobre mim:
 * ❤ Desenvolvedor <strong>Full Stack</strong>
-* 💻 Desenvolvedor <strong>Programação e Eletrônica</strong>
+* 💻 Apaixonado por <strong>Programação e Eletrônica</strong>
 <div align="center">
   <a href="https://github.com/Myze16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Myze16&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
