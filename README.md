@@ -1,6 +1,6 @@
-<img src="https://imgur.com/xyZM5xb.gif" alt="Git" style="vertical-align:top; width: 80%">
+<!-- <img src="https://imgur.com/xyZM5xb.gif" alt="Git" style="vertical-align:top; width: 80%"> -->
 
-# Olá, meu nome é Mizael <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="45" height="40">
+# Olá, bem-vindo ao meu perfil
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="40" height="30"> Sobre mim:
 * ❤ Desenvolvedor <strong>Full Stack</strong>
 * 💻 Apaixonado por <strong>Programação e Eletrônica</strong>
