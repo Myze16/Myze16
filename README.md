@@ -1,7 +1,6 @@
-<!-- <img src="https://imgur.com/xyZM5xb.gif" alt="Git" style="vertical-align:top; width: 80%"> -->
+<img src="https://imgur.com/xyZM5xb.gif" alt="Git" style="vertical-align:top; width: 100%">
 
-# Olá, bem-vindo ao meu perfil
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="40" height="30"> Sobre mim:
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="40" height="30"> Sobre mim:
 * ❤ Desenvolvedor <strong>Full Stack</strong>
 * 💻 Apaixonado por <strong>Programação e Eletrônica</strong>
 <div align="center">
