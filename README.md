@@ -5,8 +5,8 @@
 <p align="left">🔧 Ferramentas: <strong>VS Code, Figma, Trello, PyCharm, DataGrip, WebStorm, Bitbucket, Git, GitKraken e GitHub.</strong></p>
 <div align="center">
   <a href="https://github.com/Myze16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Myze16&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myze16&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Myze16&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myze16&layout=compact&langs_count=7&theme=dark"/>
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Myze16&repo=github-Aluguel_de_campos_de_futebol"/>-->
 </div>
  
