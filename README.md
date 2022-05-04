@@ -1,12 +1,12 @@
 <p align="left"> 👤 Olá, meu nome é Mizael Pardal. Sou conhecido como <strong>Myze</strong> e sou <strong>Full-Stack Developer</strong>.</p>
 
-<p align="left">💻 Tecnologias: <strong>HTML, CSS, JavaScript, Bootstrap, Python, Django, Flask, Postgres, Docker .</strong></p>
+<p align="left">💻 Tecnologias: <strong>HTML, CSS, JavaScript, Bootstrap, Python, Django, Flask, Postgres e Docker .</strong></p>
 
-<p align="left">🔧 Ferramentas: <strong>VS Code, Figma, Trello, Jira, Vercel, Git e GitHub.</strong></p>
+<p align="left">🔧 Ferramentas: <strong>VS Code, Figma, Trello, PyCharm, DataGrip, WebStorm, Bitbucket, Git, GitKraken e GitHub.</strong></p>
 <div align="center">
   <a href="https://github.com/Myze16">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Myze16&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myze16&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Myze16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myze16&layout=compact&langs_count=7&theme=dark"/>
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Myze16&repo=github-Aluguel_de_campos_de_futebol"/>-->
 </div>
  
