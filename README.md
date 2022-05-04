@@ -1,31 +1,30 @@
-<img src="https://imgur.com/xyZM5xb.gif" alt="Git" style="vertical-align:top; width: 100%">
+<p align="left"> 👤 Olá, meu nome é Mizael Pardal. Sou conhecido como <strong>Myze</strong> e sou <strong>Full-Stack Developer</strong>.</p>
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="40" height="30"> Sobre mim:
-* ❤ Desenvolvedor <strong>Full Stack</strong>
-* 💻 Apaixonado por <strong>Programação e Eletrônica</strong>
+<p align="left">💻 Tecnologias: <strong>HTML, CSS, JavaScript, Bootstrap, Python, Django, Flask, Postgres, Docker .</strong></p>
+
+<p align="left">🔧 Ferramentas: <strong>VS Code, Figma, Trello, Jira, Vercel, Git e GitHub.</strong></p>
 <div align="center">
   <a href="https://github.com/Myze16">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Myze16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myze16&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Myze16&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myze16&layout=compact&langs_count=7&theme=dark"/>
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Myze16&repo=github-Aluguel_de_campos_de_futebol"/>-->
 </div>
  
-<div style="display: inline_block"><br>
+<!--<div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
   
-  <!--
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   -->
-  
+<br>
 <div>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/eomyze/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-2e2e2e?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mizael-pardal-101a40224/" target="_blank"><img src="https://img.shields.io/badge/Discord-2e2e2e?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2e2e2e?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <hr>
   <!--
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
