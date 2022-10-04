@@ -1,8 +1,8 @@
 <p align="left"> 👤 Olá, meu nome é Mizael Pardal. Sou conhecido como <strong>Myze</strong> e sou <strong>Full-Stack Developer</strong>.</p>
 
-<p align="left">💻 Tecnologias: <strong>HTML, CSS, JavaScript, Bootstrap, Python, Django, Flask, Postgres e Docker .</strong></p>
+<p align="left">💻 Tecnologias: <strong>HTML, CSS, JavaScript, Bootstrap, Python, Django, Node, Express, Postgres e Docker .</strong></p>
 
-<p align="left">🔧 Ferramentas: <strong>VS Code, Figma, Trello, PyCharm, DataGrip, WebStorm, Bitbucket, Git, GitKraken e GitHub.</strong></p>
+<p align="left">🔧 Ferramentas: <strong>VS Code, Figma, Trello, Jira, PyCharm, DataGrip, WebStorm, Bitbucket, Git, GitKraken e GitHub.</strong></p>
 <div align="center">
   <a href="https://github.com/Myze16">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Myze16&theme=dark&hide_border=true"/>
