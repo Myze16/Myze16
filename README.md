@@ -1,4 +1,4 @@
-<p align="left"> 👤 Olá, meu nome é Mizael Pardal. Sou conhecido como <strong>Myze</strong> e sou <strong>Full-Stack Developer</strong>.</p>
+<p align="left"> 👤 Olá, meu nome é Mizael Pardal. Sou conhecido como <strong>Myze</strong> e sou <strong>Software Engineer</strong>.</p>
 
 <p align="left">💻 Tecnologias: <strong>HTML, CSS, JavaScript, Bootstrap, Python, Django, Node, Express, Postgres e Docker .</strong></p>
 
