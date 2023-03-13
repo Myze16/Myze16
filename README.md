@@ -1,6 +1,6 @@
-<p align="left"> 👤 Olá, meu nome é Mizael Pardal. Sou conhecido como <strong>Myze</strong> e sou <strong>Software Engineer</strong>.</p>
+<p align="left"> 👤 Olá, me chamo <strong>Mizael Pardal</strong>, mais conhecido como <strong>Myze</strong>. Estou em busca de me tornar um <strong>Software Engineer</strong>.</p>
 
-<p align="left">💻 Tecnologias: <strong>HTML, CSS, JavaScript, Bootstrap, Python, Django, Node, Express, Postgres e Docker .</strong></p>
+<p align="left">💻 Tecnologias: <strong>Javascript</strong> para Web, <strong>Python</strong> para web e análise de dados, <strong>Postgres</strong> e <strong>Docker</strong>.</p>
 
 <p align="left">🔧 Ferramentas: <strong>VS Code, Figma, Trello, Jira, PyCharm, DataGrip, WebStorm, Bitbucket, Git, GitKraken e GitHub.</strong></p>
 <div align="center">
