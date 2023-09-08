@@ -12,12 +12,12 @@ class AboutMe extends Developer {
   name = "Mizael Lucas Pardal G. Ribeiro";
   area = "Full Stack";
   work = "SmartNX";
-  local = "Vassouras, RJ";
+  place = "Vassouras, RJ";
 }
 
-class Skills extends Desenvolvedor {
-  linguagens = ["Python", "JavaScript"];
-  bibliotecas = ["Pandas", "ReactJs"];
+class Skills extends Developer {
+  languages = ["Python", "JavaScript"];
+  libraries = ["Pandas", "ReactJs"];
   frameworks = ["Django", "Flask", "Express.js", "Next.js"];
   tools = ["Figma", "Bitbucket", "Git", "Trello", "Jira", "IDE in general"];
 }
