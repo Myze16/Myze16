@@ -52,7 +52,7 @@ class Skills extends Developer {
 </div>
   -->
 <div>
-  <a href="https://www.instagram.com/eomyze/" target="_parent"><img src="https://img.shields.io/badge/-Instagram-2e2e2e?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/cold.myze/" target="_parent"><img src="https://img.shields.io/badge/-Instagram-2e2e2e?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-2e2e2e?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mizael-pardal-101a40224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2e2e2e?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <!--
