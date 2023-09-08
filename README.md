@@ -6,7 +6,7 @@
 -->
 ```js
 
-import Developer from "MizaelPardal";
+import Developer from "Myze";
 
 class AboutMe extends Developer {
   name = "Mizael Lucas Pardal G. Ribeiro";
