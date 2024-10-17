@@ -11,15 +11,17 @@ import SoftwareEngineer from "Myze";
 class AboutMe extends SoftwareEngineer {
   name = "Mizael Lucas Pardal G. Ribeiro";
   area = "Full Stack";
-  work = "SmartNX";
   place = "Vassouras, RJ";
+  bio = "Estudante de engenharia e entusiasta de tecnologia";
+  hint = "Atente-se aquilo que não se compra, mas se gasta a todo momento sem parar";
+  true = Jesus > All;
 }
 
 class Skills extends SoftwareEngineer {
-  languages = ["Python", "JavaScript"];
+  languages = ["Go", "JavaScript", "Python", "Java"];
   libraries = ["Pandas", "ReactJs"];
-  frameworks = ["Django", "Flask", "Express.js", "Next.js"];
-  tools = ["Figma", "Bitbucket", "Git", "Trello", "Jira", "IDE in general"];
+  frameworks = ["Gin", "Flask", "Node.js", "Next.js", "Django"];
+  tools = ["Figma", "RabbitMQ", "Git", "AWS", "Docker", "IDE in general"];
 }
 
 ```
