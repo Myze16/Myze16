@@ -6,16 +6,16 @@
 -->
 ```js
 
-import Developer from "Myze";
+import SoftwareEngineer from "Myze";
 
-class AboutMe extends Developer {
+class AboutMe extends SoftwareEngineer {
   name = "Mizael Lucas Pardal G. Ribeiro";
   area = "Full Stack";
   work = "SmartNX";
   place = "Vassouras, RJ";
 }
 
-class Skills extends Developer {
+class Skills extends SoftwareEngineer {
   languages = ["Python", "JavaScript"];
   libraries = ["Pandas", "ReactJs"];
   frameworks = ["Django", "Flask", "Express.js", "Next.js"];
