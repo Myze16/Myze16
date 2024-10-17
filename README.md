@@ -9,7 +9,7 @@
 import SoftwareEngineer from "Myze";
 
 class AboutMe extends SoftwareEngineer {
-  name = "Mizael Lucas Pardal G. Ribeiro";
+  name = "Mizael Pardal";
   area = "Full Stack";
   place = "Vassouras, RJ";
   bio = "Estudante de engenharia e entusiasta de tecnologia";
