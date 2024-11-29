@@ -14,7 +14,7 @@ class AboutMe extends SoftwareEngineer {
   place = "Vassouras, RJ";
   bio = "Estudante de engenharia e entusiasta de tecnologia";
   hint = "Atente-se aquilo que não se compra, mas se gasta a todo momento sem parar";
-  true = Jesus > All;
+  iBelieve = Jesus > All == true;
 }
 
 class Skills extends SoftwareEngineer {
